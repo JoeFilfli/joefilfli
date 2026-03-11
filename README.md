@@ -1,6 +1,6 @@
 # Joe Filfli
 
-Computer Science student focused on building reliable software systems and research infrastructure for data-driven applications.
+Computer Science and engineering student at the American University of Beirut focused on building reliable software systems and research infrastructure for data-driven applications.
 
 I’m particularly interested in systems that take ideas from research or experimentation and turn them into robust, production-ready software.
 
